@@ -1,5 +1,5 @@
 {
-    "name": "payments/helper",
+    "name": "payments/quickpay",
     "description": "A Laravel package for integrating payments gateways.",
     "autoload": {
         "psr-4": {
